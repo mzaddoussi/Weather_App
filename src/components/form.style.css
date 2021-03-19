@@ -1,0 +1,17 @@
+.row.form_bloc {
+    display: flex;
+    justify-content: space-evenly;
+}
+.form_bloc input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    border-radius: 0;
+    color: #ffffff;
+}
+.form_bloc input:focus{
+    background-color: transparent;
+    box-shadow: none;
+    color: #ffffff;
+    border-bottom-color: #007bff;
+}
