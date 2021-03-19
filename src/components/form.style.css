@@ -15,3 +15,6 @@
     color: #ffffff;
     border-bottom-color: #007bff;
 }
+.weather_input::placeholder{
+    color: #dad7d7 !important;
+}
